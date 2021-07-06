@@ -29,7 +29,7 @@ Heroku Link: [https://auth-api-amro.herokuapp.com/](https://auth-api-amro.heroku
 
 Github Actions: [https://github.com/amroalbarham/auth-api/actions](https://github.com/amroalbarham/auth-api/actions)
 
-Pull Request: [https://github.com/amroalbarham/auth-api/pull/2](https://github.com/amroalbarham/auth-api/pull/2)
+Pull Request: [https://github.com/amroalbarham/auth-api/pull/3](https://github.com/amroalbarham/auth-api/pull/3)
 
 UML
 ![UML](./LAB8.png)
