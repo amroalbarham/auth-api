@@ -2,6 +2,7 @@ const supergoose = require('@code-fellows/supergoose');
 const server = require('../src/server');
 const request = supergoose(server.server);
 const bcrypt = require('bcrypt');
+// process.env.SECRET='amro'
 require('dotenv').config();
 let users = {
     admin: { username: 'admin', password: 'password', role: 'admin' },
